@@ -1,0 +1,2 @@
+# C4.5-Decision-Tree
+ I have implement a C4.5 Decision Tree  algorithm to detect the people affected with heart diseases. Heart Disease is a problem faced my most of the people around the globe. In the data set provided we have 919 instances. As Machine learning is getting better day by day, it can help the doctors to find out if the patients have heart disease or not. And Machine Learning Algorithm can even Save Life’s in future by predicting cases accurately.
